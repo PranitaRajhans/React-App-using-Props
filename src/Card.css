@@ -1,0 +1,22 @@
+ .container-sm {
+    align-content: center;
+    align-items: center;
+    width: 50%;
+    background-color: lightgray}
+
+.card{
+   padding: 20px;
+   width: 80%;
+}
+.w-60{
+    max-width: 60%;
+}
+
+.mx-auto{
+    align-content: center;
+    text-align: center;
+}
+
+h3{
+    background-color: lightsteelblue;
+}
